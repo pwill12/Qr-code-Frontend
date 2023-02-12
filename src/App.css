@@ -1,0 +1,12 @@
+.Center {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    height: 100vh;
+}
+
+.Container {
+    height: 100vh;
+}
